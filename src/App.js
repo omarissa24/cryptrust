@@ -32,7 +32,7 @@ const App = () => {
                 </Layout>
                 <div className='footer'>
                     <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>
-                        Cryptrust <br />
+                        Cryptrack <br />
                         Made by Omar Issa
                         &copy; 2022
                     </Typography.Title>
